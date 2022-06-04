@@ -28,7 +28,7 @@ Oi! Eu sou o Luiz Felipe
   
   ##
   
-  <div align="center">
-    ![Snake animation](https://github.com/lfelipecx/lfelipecx/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
+  ![Snake animation](https://github.com/lfelipecx/lfelipecx/blob/output/github-contribution-grid-snake.svg)
+
 
