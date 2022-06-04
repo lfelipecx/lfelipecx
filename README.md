@@ -25,4 +25,7 @@ Oi! Eu sou o Luiz Felipe
   <a href = "mailto:lfelipecx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-felipe-da-silva-303814229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
+  
+  ![Snake animation](https://github.com/lfelipecx/lfelipecx/blob/output/github-contribution-grid-snake.svg)
 
