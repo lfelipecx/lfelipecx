@@ -16,7 +16,7 @@ Oi! Eu sou o Luiz Felipe
   <img align="center" alt="Felipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Felipe-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Felipe-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Felipe-Handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg">
+  
 </div>
   
   ##
@@ -31,6 +31,6 @@ Oi! Eu sou o Luiz Felipe
   ##
   
   
-  ![Snake animation](https://github.com/lfelipecx/lfelipecx/blob/output/github-contribution-grid-snake.svg)
+  
 
 
