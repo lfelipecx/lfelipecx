@@ -1,7 +1,7 @@
 Oi! Eu sou o Luiz Felipe
 
-- 🔭 Gostaria muito de trabalhar com Front-End
-- 🌱 Estou estudando HTML | CSS | Javascript | React | NodeJS | MongoDB
+- 🔭 Eterno aprendiz em Front-End e Back-End
+- 🌱 Estou estudando HTML | CSS | Javascript | React | NodeJS | Prisma | Next.js
 
 <div align="center">
   <a href="https://github.com/lfelipecx">
