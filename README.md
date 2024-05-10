@@ -1,6 +1,6 @@
 Oi! Eu sou o Luiz Felipe
 
-- 🔭 Eterno aprendiz em Front-End e Back-End
+- 🔭 Eterno aprendiz em Frontend e Backend
 - 🌱 Estou estudando HTML | CSS | Javascript | React | NodeJS | Prisma | Next.js
 
 <div align="center">
