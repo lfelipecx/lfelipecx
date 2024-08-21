@@ -1,7 +1,6 @@
 Oi! Eu sou o Luiz Felipe
 
-- 🔭 Eterno aprendiz em Frontend e Backend
-- 🌱 Estou estudando HTML | CSS | Javascript | React | NodeJS | Prisma | Next.js
+- 🌱 Estudando HTML | CSS | Javascript | React | NodeJS | Prisma | Nextjs
 
 <div align="center">
   <a href="https://github.com/lfelipecx">
