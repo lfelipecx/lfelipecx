@@ -1,6 +1,6 @@
 Oi! Eu sou o Luiz Felipe
 
-- 🌱 Estudando HTML | CSS | Javascript | React | NodeJS | Prisma | Nextjs
+- 🌱 Estudando HTML | CSS | Javascript | Typescript | React | NodeJS | Prisma | Nextjs
 
 <div align="center">
   <a href="https://github.com/lfelipecx">
